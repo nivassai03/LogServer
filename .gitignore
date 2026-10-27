@@ -1,0 +1,12 @@
+build/
+
+.vs/
+*.user/
+
+data/
+
+
+*.db/
+*.db-journal
+*.db-wal
+*.db-shm
